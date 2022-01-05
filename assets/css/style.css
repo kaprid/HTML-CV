@@ -1127,14 +1127,14 @@ section {
   position: relative;
   font-family: "Poppins", sans-serif;
   padding: 0;
-  margin: 0 0 15px 95px;
+  margin: 0 0 15px 0;
 }
 
 #footer p {
   font-size: 15;
   font-style: italic;
   padding: 0;
-  margin: 0 0 40px 95px;
+  margin: 0 0 40px 0;
 }
 
 #footer .social-links {
@@ -1148,7 +1148,7 @@ section {
   color: #fff;
   line-height: 1;
   padding: 8px 0;
-  margin-right: -95px;
+  margin-right: 4px;
   border-radius: 50%;
   text-align: center;
   width: 36px;
